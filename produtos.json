@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "Calca Jeans",
+    "tamanho": 42,
+    "preco": 139.99,
+    "imagem": "img/teste.jpg"
+  },
+  {
+    "nome": "Tênis feminino",
+    "tamanho": 36,
+    "preco": 250.00,
+    "imagem": "img/teste.jpg"
+  },
+  {
+    "nome": "Camiseta manga longa",
+    "tamanho": "GG",
+    "preco": 79.99,
+    "imagem": "img/teste.jpg"
+  },
+  {
+    "nome": "jaqueta de couro",
+    "tamanho": "M",
+    "preco": 329.90,
+    "imagem": "img/teste.jpg"
+  },
+  {
+    "nome": "Camiseta dry-fit",
+    "tamanho": "P",
+    "preco": 150.00,
+    "imagem": "img/teste.jpg"
+  },
+  {
+    "nome": "Tênis masculino",
+    "tamanho": 43,
+    "preco": 280.00,
+    "imagem": "img/teste.jpg"
+  }
+
+]
